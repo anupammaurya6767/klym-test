@@ -10,7 +10,7 @@ st.set_page_config(page_title="Skincare Recommendation Tester", page_icon="🧴"
 
 st.title("🧴 Skincare Product Recommendation Tester")
 
-API_URL = "https://skincare_products_prod.tanjirouji.workers.dev/test-vertex-catalog"
+API_URL = "https://klym-products.klym-life.workers.dev/test-vertex-catalog"
 
 # --- User Profile Form ---
 st.header("🧍‍♀️ User Profile")
